@@ -1,0 +1,15 @@
+com\demo\fileproc\service\fileparsehandler\FileChunkHandlers.class
+com\demo\fileproc\service\cache\CacheServiceInterface.class
+com\demo\fileproc\service\cache\CacheServiceFactory.class
+com\demo\fileproc\common\Utility.class
+com\demo\fileproc\service\fileproc\FileProcessorImpl.class
+com\demo\fileproc\service\fileparsehandler\FileChunkHandler.class
+com\demo\fileproc\service\cachelistener\CacheChangeListener.class
+com\demo\fileproc\service\dto\DataObject.class
+com\demo\apps\service\AppContext.class
+com\demo\fileproc\service\dto\FileChunkDataDTO.class
+com\demo\fileproc\service\cache\cohereance\CoherenceCacheImpl.class
+com\demo\fileproc\fw\BaseFileProcessorImpl.class
+com\demo\fileproc\service\dto\DataObjectInterface.class
+com\demo\fileproc\fw\FileProcBatchIInterface.class
+com\demo\fileproc\fw\FileProcessorBase.class
